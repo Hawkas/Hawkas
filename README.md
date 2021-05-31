@@ -1,5 +1,5 @@
 ### Hi, I'm Hawkas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/hey there-Text-green?style=flat-square)](https://fronthauk.com)
+[![Website](https://img.shields.io/badge/hey&nbsp;there-Text-green?style=flat-square)](https://fronthauk.com)
 ```js
 let firstName = "Torbjørn";
 let lastName = "Haukås";
