@@ -1,5 +1,5 @@
 # Hi, I'm Hawkas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Studying&nbsp;FED&nbsp;@&nbsp;Noroff&nbsp;Vocational&nbsp;School-HTML&nbsp;CSS&nbsp;JS-green?style=flat-square)](https://fronthauk.com)
+[![Website](https://img.shields.io/badge/Studying&nbsp;Frontend&nbsp;@&nbsp;Noroff&nbsp;Vocational&nbsp;School-HTML&nbsp;CSS&nbsp;JS-green?style=flat-square)](https://fronthauk.com)
 <br />
 
 
