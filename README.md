@@ -1,6 +1,7 @@
-### Hi, I'm Hawkas 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://fronthauk.com)
+### Hi, I'm Hawkas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+test[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://fronthauk.com)
 
+## A computer nerd eager to learn anything related to Web Development!
 - 🔭 I’m currently working on - My portfolio page
 - 🌱 I’m currently learning - JavaScript, about to get into React
 - 👯 I’m looking to collaborate on - Any interesting web related project
