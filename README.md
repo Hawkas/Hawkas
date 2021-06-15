@@ -7,9 +7,8 @@
 - 🔭 I’m currently working on - My portfolio page
 - 🌱 I’m currently learning - JavaScript, about to get into React
 - 👯 I’m looking to collaborate on - Any interesting web related project
-- 💬 Ask me about - Anything. 
 - 📫 How to reach me - Discord: Thriax#7777, or my [LinkedIn](https://www.linkedin.com/in/torbj%C3%B8rn-hauk%C3%A5s-7933911b5/)
-- 🥅 2021 Goal - Survive.
+- 🥅 2021 Goal - Learn React.
 <br />
 
 [![Hawkas's github stats](https://github-readme-stats.vercel.app/api?username=Hawkas&count_private=true&include_all_commits=true&theme=radical&show_icons=true&theme=gruvbox)](https://fronthauk.com)
