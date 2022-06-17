@@ -4,11 +4,11 @@
 
 
 ## A computer nerd eager to learn anything related to Web Development!
-- 🔭 I’m currently working on - My portfolio page
-- 🌱 I’m currently learning - JavaScript, about to get into React
+- 🔭 I’m currently working on - Nothing. I'm taking a break for a couple of weeks.
+- 🌱 I’m currently learning - Diving into the deep end on TypeScript and looking into Node.JS
 - 👯 I’m looking to collaborate on - Any interesting web related project
 - 📫 How to reach me - Discord: Thriax#7777, or my [LinkedIn](https://www.linkedin.com/in/torbj%C3%B8rn-hauk%C3%A5s-7933911b5/)
-- 🥅 2021 Goal - Learn React.
+- 🥅 2022 Goal - Learn Node.JS
 <br />
 
 [![Hawkas's github stats](https://github-readme-stats.vercel.app/api?username=Hawkas&count_private=true&include_all_commits=true&theme=radical&show_icons=true&theme=gruvbox)](https://fronthauk.com)
